@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python tutorial for Real Mom Lovers</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Python tutorial for Real Mom Lovers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2022 20:58:32 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 1</title>
+      <link>http://example.org/posts/second-post/</link>
+      <pubDate>Thu, 08 Sep 2022 20:58:32 +0530</pubDate>
+      
+      <guid>http://example.org/posts/second-post/</guid>
+      <description>Oompa Loompa , yet Snekkity Snek. I&amp;rsquo;m back.
+Hello everyone , Time for some Sneky Snek. I mean Python.
+print(&amp;#34;Hello Mom&amp;#34;) Question = &amp;#34;Why are you so fat ?&amp;#34; print(Question) So this is how to start coding Make sure you show your mother your first code. She&amp;rsquo;ll be proud.
+Anyways back to reality.
+More python. So , what do we do now ?
+Lets go over some conditions
+print(&amp;#34;Hey Mom.&amp;#34;) Answer = input(&amp;#34;Are you there ?</description>
+    </item>
+    
+    <item>
+      <title>Morning Motivation</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Thu, 08 Sep 2022 20:53:34 +0530</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Everything seems normal.
+Yet it&amp;rsquo;s not how it&amp;rsquo;s meant to be.
+Python , I&amp;rsquo;m talking about Python.
+Too easy , yet so difficult.
+Oompa Loompa , yet sneketyy snek.
+Thanks , I&amp;rsquo;ll go back to god.</description>
+    </item>
+    
+  </channel>
+</rss>
