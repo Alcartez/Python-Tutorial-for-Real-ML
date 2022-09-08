@@ -1,4 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Python tutorial for Real Mom Lovers'
-theme = "contrast-hugo"
